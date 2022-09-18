@@ -1,0 +1,9 @@
+.designSystemWrapper {
+    display: flex;
+    flex-direction: row;
+    padding: 0 2rem;
+    
+    .designSystemSection {
+        padding: 1rem 3rem;
+    }
+}
