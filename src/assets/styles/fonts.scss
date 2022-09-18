@@ -51,3 +51,40 @@
     src: url('../fonts/Poppins/Poppins-Black.ttf');
     font-weight: 900;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.7rem;
+}
+
+h5 {
+    font-size: 1.5rem;
+}
+
+h6 {
+    font-size: 1.2rem;
+}
+
+p, a, label {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+button {
+    font-size: 1.5rem;
+}
